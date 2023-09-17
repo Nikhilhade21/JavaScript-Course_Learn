@@ -60,3 +60,4 @@ function returnSecondvalue(arrayS){
 
 // console.log(returnSecondvalue(mynewArray))
 console.log(returnSecondvalue([654, 54, 643, 643, 234]))
+
