@@ -1,2 +1,2 @@
 # js-learn
-A code repo for java script. 
+A code repo for javascript. 
